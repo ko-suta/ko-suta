@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Kostya Ovsiannikov, a posdoc at Kochi University of Technology (Japan)
+- 👋 Hi, I’m Kostya Ovsiannikov, a posdoc at Kochi University of Technology :japan:
 - 👀 I’m interested in <b>corporate governance</b>, <b>labor economics</b> and <b>technological innovations</b>
 - 🌱 I run most of my projects through RMarkdown
-- 💞️ I’m currently mastering experimental methods via the application of oTree in Python environemnt
+- :paw_prints: I’m currently mastering experimental methods via the application of oTree in Python environemnt
 - 📫 You can reach me by visiting my <a href="https://kovsiannikov.com">website</a>, seding me a <a href="https://twitter.com/kovsiann">DM</a>, or an <a href = "mailto: k.ovsiannikov@gmail.com">Email</a>
 
 <!---
