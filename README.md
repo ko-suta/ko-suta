@@ -6,9 +6,6 @@
 - :paw_prints: I’m currently mastering experimental methods via oTree
 - 📫 You can reach me by visiting my <a href="https://kovsiannikov.com">website</a>, seding me a <a href="https://twitter.com/kovsiann">DM</a>, or an <a href = "mailto: k.ovsiannikov@gmail.com">email</a>
 
-
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
-
 <!---
 ko-suta/ko-suta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
